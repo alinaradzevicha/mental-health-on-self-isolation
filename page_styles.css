@@ -1,0 +1,36 @@
+
+/* BACKGROUND */
+body {    background-color: lightgray }
+/* FONT COLORS */
+p {color: #001a00}
+h1 {color: #8A2A34}
+h2 {color: #8A2A34}
+li {color: #001a00}
+ul {color: #001a00}
+/* FONTS */
+body {font-family: optima, sans-serif; }
+    h1 {font-family: "Arial Black", Gadget, sans-serif;}
+        h2 {font-family: "Arial Black", Gadget, sans-serif;}
+
+
+/* h1
+{
+   font-family: "Arial Black", Gadget, sans-serif; 
+}
+h2
+{
+   font-family: "Arial Black", Gadget, sans-serif;  */
+
+/* BOXES */
+
+div {
+   background-color: lightgrey;
+   width: 750px;
+   border: 10px solid #8A2A34;
+   padding: 10px;
+   margin: 10px;
+ }
+ </style>
+ </head>
+ <body>
+
